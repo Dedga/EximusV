@@ -1,0 +1,4 @@
+Program som lysssnar efter input från tangentbord
+skicka input till körsekvens, (switch/case). Separat funktion?
+spara input i lista, med olika tidsintervall. Om inte nytt input, spara tidigre använt input.
+exportera lista till .txt när körning är över
